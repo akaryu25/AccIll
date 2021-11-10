@@ -8,26 +8,13 @@ import Seo from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <Seo title="Home" />
-    <p>Questo &egrave; l'ultimo test per valutare le tue COmpetenxe. Crxdo in te, so che sax&agrave; difficile ma penso che sarai in Gradx di risolverlo.&nbsp;La soluzioNe ti pOrter&agrave; nel Mio giardino, dovE troverai gli altri xoncxrrenti che soxo riuxciti a terminare l'enigma.&nbsp;</p>
-    <p>Sai, VOrrei tanto poter invitare tutti, ma per poter benefiCiAre dei suxi frutti serve dimostrare di esserxe all'aLtezzx. E' ux luogo pensaxo per raccoglIere persone che condxvidono la mia stessa ideologia, che mi ha portato a creare la prima moneta peer to peer, prima ancora di Bitcoin e tutte le altre criptovalUte. Ho fallito, mi hanNO fermato prima che potessi renderla pubblica, sono stato allontanato dalla mia famiglia e ora vivo fuori dalla societ&agrave;. Dovevo aspettarmelo, la gente non era ancora pronta in quel momento...</p>
-    <p>Il mio allievo, Satoshi, &egrave; riuscito a portare alla luce la mia opera. Ora quello che vorrei fare &egrave; creare una societ&agrave; parallela, superiore, che non segua le regole corrotte di quella attuale. Che sappia leggere il <em>semaforo. </em>Che misuri con la mano destra le ore e con la mano sinistra i minuti.&nbsp;</p>
-    <p>La domanda &egrave; quindi: tu ne farai parte?</p>
-    <StaticImage
-      src="../images/tesseract-second.png"
-      width={300}
-      quality={95}
-      formats={["auto", "webp", "avif"]}
-      alt="The first piece of the puzzle"
-      style={{ marginBottom: `1.45rem` }}
-    />
+    <p>Benvenuto/a nell'accademia.&nbsp;</p>
+    <p>Sono qui per guidarti ad intraprendere la strada verso l'Oscurit&agrave;. Non temere, &egrave; solo un sostantivo femminile che serve ad indicare la mancanza o insufficienza di luce. Vedi, lo scopo dell'accademia &egrave; quello di darti le conoscenze di base per risolvere gli Enigmi.</p>
+    <p>Ogni Enigma &egrave; indicato con l'associazione di un nome e un aggettivo, ad esempio "Accademia Oscura"</p>
+    <p>La soluzione di ogni Enigma porter&agrave; sempre a quello successivo, quindi avr&agrave; sempre questa forma.</p>
+    <p><Link to="/esempio1/">Qui</Link> <br />&nbsp; troverai degli esempi guidati. Prova a risolverli!</p>
     <p> </p>
-    <p>
-      <Link to="/page1/">Reveal</Link> <br />
-    </p>
-    <p>
-      Dovresti essere in grado di decifrare questo momento importante della storia, quando lo avrai fatto procedi &nbsp;
-      <Link to="/page2/">qui</Link> <br />
-    </p>
+ 
   </Layout>
 )
 
