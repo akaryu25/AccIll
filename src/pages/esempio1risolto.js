@@ -18,7 +18,9 @@ const esempio1risolto = () => (
       alt="The first piece of the puzzle"
       style={{ marginBottom: `1.45rem` }}
     />
-    <p> </p>
+    <p>Puoi notare che ci sono delle lettere maiuscole, questi errori non sono a caso. Se segni ogni lettera maiuscola che non dovrebbe essere tale otterrai:</p>
+    <p>E S E M P I O</p>
+    <p>Le maiuscole dopo il punto sono corrette e quindi vanno ignorate, per questo non vengono tenute in considerazione Q di Quasi e A,O di Accademia Oscura.</p>
     <p>
       Vai al &nbsp;<Link to="/esempio2">prossimo</Link> <br />
     </p>
