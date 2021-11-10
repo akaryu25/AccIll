@@ -9,7 +9,7 @@ const esempio2 = () => (
   <Layout>
     <Seo title="Esempio2" />
     <p> 
-    Elicottero rumoroso <br /> Sasso bianco <br /> Edera verde <br /> Musica soave <br /> Pittura artistica <br /> Intelligenza artificiale <br /> Onda quadra 
+     
     </p>
     <p>
     mneudsirau
