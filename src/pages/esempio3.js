@@ -18,7 +18,7 @@ const esempio3 = () => (
     01100100 01101001 01100110 01100110 01101001 01100011 01101001 01101100 01100101
 
     <p>
-      Guarda la &nbsp; <Link to="/esempio2risolto/">soluzione</Link> 
+      Guarda la &nbsp; <Link to="/esempio3risolto/">soluzione</Link> 
     </p>
     
   </Layout>
