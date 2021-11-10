@@ -16,7 +16,7 @@ const esempio2 = () => (
     </p>
 
     <p>
-      Guarda la &nbsp; <Link to="/esempio2risolto/">soluzione</Link> 
+      Guarda la &nbsp;<Link to="/esempio2risolto/">soluzione</Link> 
     </p>
     
   </Layout>
