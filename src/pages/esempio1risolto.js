@@ -20,7 +20,7 @@ const esempio1risolto = () => (
     />
     <p> </p>
     <p>
-      Guarda la &nbsp;<Link to="/">soluzione</Link> <br />
+      Vai al &nbsp;<Link to="/esempio2">prossimo</Link> <br />
     </p>
     
   </Layout>
