@@ -19,7 +19,7 @@ const esempio2risolto = () => (
     <p>Manganese, Europio, Darmstadtio, Iridio, Oro, le cui iniziali formano M E D I O.</p>
     <p>La risposta &egrave; ESEMPIO MEDIO.</p>
     <p>
-      Vai al &nbsp;<Link to="/">prossimo</Link> <br />
+      Vai al &nbsp;<Link to="/esempio3">prossimo</Link> <br />
     </p>
     
   </Layout>
