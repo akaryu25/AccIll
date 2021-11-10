@@ -20,7 +20,7 @@ const esempio1 = () => (
     />
     <p> </p>
     <p>
-      Guarda la &nbsp;<Link to="/">soluzione</Link> <br />
+      Guarda la &nbsp;<Link to="/esempio1risolto/">soluzione</Link> <br />
     </p>
     
   </Layout>
