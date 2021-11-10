@@ -8,12 +8,10 @@ import Seo from "../components/seo"
 const esempio1 = () => (
   <Layout>
     <Seo title="Esempio1" />
-    <p>Questo &egrave; l'ultimo test per valutare le tue COmpetenxe. Crxdo in te, so che sax&agrave; difficile ma penso che sarai in Gradx di risolverlo.&nbsp;La soluzioNe ti pOrter&agrave; nel Mio giardino, dovE troverai gli altri xoncxrrenti che soxo riuxciti a terminare l'enigma.&nbsp;</p>
-    <p>Sai, VOrrei tanto poter invitare tutti, ma per poter benefiCiAre dei suxi frutti serve dimostrare di esserxe all'aLtezzx. E' ux luogo pensaxo per raccoglIere persone che condxvidono la mia stessa ideologia, che mi ha portato a creare la prima moneta peer to peer, prima ancora di Bitcoin e tutte le altre criptovalUte. Ho fallito, mi hanNO fermato prima che potessi renderla pubblica, sono stato allontanato dalla mia famiglia e ora vivo fuori dalla societ&agrave;. Dovevo aspettarmelo, la gente non era ancora pronta in quel momento...</p>
-    <p>Il mio allievo, Satoshi, &egrave; riuscito a portare alla luce la mia opera. Ora quello che vorrei fare &egrave; creare una societ&agrave; parallela, superiore, che non segua le regole corrotte di quella attuale. Che sappia leggere il <em>semaforo. </em>Che misuri con la mano destra le ore e con la mano sinistra i minuti.&nbsp;</p>
-    <p>La domanda &egrave; quindi: tu ne farai parte?</p>
+    <p>Quasi sEmpre il titolo dell'enigma &egrave; un'informazione indiSpEnsabile per risolverlo, quindi Mi raccomando non dimenticartene! In questo caso il titolo &egrave; "Accademia Oscura" e non aiuta in alcun modo a trovare la soluzione di questi esemPI, ma nOn sar&agrave; sempre cos&igrave;.</p>
+    <p>Alcuni codici saranno facili da decifrare, altri meno. Prima di perdere ogni speranza, prova a cercare il codice su Google. Molto probabilmente non troverai nulla ma tentar non nuoce, soprattutto se hai gi&agrave; provato vari modi per decifrarlo e non hanno portato risultati. In quel caso potrebbe proprio essere che il codice sia un'etichetta di qualche tipo e lo troverai subito sul motore di ricerca.</p>
     <StaticImage
-      src="../images/tesseract-first.png"
+      src="../images/esempio1.png"
       width={300}
       quality={95}
       formats={["auto", "webp", "avif"]}
@@ -22,12 +20,9 @@ const esempio1 = () => (
     />
     <p> </p>
     <p>
-      <Link to="/">Cover</Link> <br />
+      Guarda la &nbsp;<Link to="/">soluzione</Link> <br />
     </p>
-    <p>
-      Dovresti essere in grado di decifrare questo momento importante della storia, quando lo avrai fatto procedi &nbsp;
-      <Link to="/page2/">qui</Link> <br />
-    </p>
+    
   </Layout>
 )
 
