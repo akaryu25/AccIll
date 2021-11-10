@@ -25,7 +25,7 @@ const esempio1risolto = () => (
     <p>6 1 = F A</p>
     <p>Ora la bandiera in questione &egrave; quella del Cile. La risposta sar&agrave; quindi ESEMPIO FACILE. Se non si ottiene un nome e un aggettivo nella risposta finale dell'enigma allora si &egrave; sicuramente sulla strada sbagliata.</p>
     <p>
-      Vai al &nbsp;<Link to="/esempio2">prossimo</Link> <br />
+      Vai al &nbsp;<Link to="/esempio2/">prossimo</Link> <br />
     </p>
     
   </Layout>
