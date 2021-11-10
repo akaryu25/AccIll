@@ -21,6 +21,9 @@ const esempio1risolto = () => (
     <p>Puoi notare che ci sono delle lettere maiuscole, questi errori non sono a caso. Se segni ogni lettera maiuscola che non dovrebbe essere tale otterrai:</p>
     <p>E S E M P I O</p>
     <p>Le maiuscole dopo il punto sono corrette e quindi vanno ignorate, per questo non vengono tenute in considerazione Q di Quasi e A,O di Accademia Oscura.</p>
+    <p>La seconda parte &egrave; un numero e una bandiera, quindi sicuramente un codice. Provando ad associare 1 alla prima lettera dell'alfabeto, 2 alla seconda e avanti cos&igrave;, si avr&agrave; che&nbsp;</p>
+    <p>6 1 = F A</p>
+    <p>Ora la bandiera in questione &egrave; quella del Cile. La risposta sar&agrave; quindi ESEMPIO FACILE. Se non si ottiene un nome e un aggettivo nella risposta finale dell'enigma allora si &egrave; sicuramente sulla strada sbagliata.</p>
     <p>
       Vai al &nbsp;<Link to="/esempio2">prossimo</Link> <br />
     </p>
