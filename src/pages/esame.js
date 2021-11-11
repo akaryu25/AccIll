@@ -9,6 +9,7 @@ const esame = () => (
   <Layout>
     <Seo title="Esame" />
     <p>Oltre che solitario è anche... </p>
+  <p></p>
     <StaticImage
       src="../images/esame.png"
       width={600}
