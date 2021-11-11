@@ -10,11 +10,11 @@ const esame = () => (
     <Seo title="Esame" />
     <p>Oltre che solitario è anche... </p>
     <StaticImage
-      src="../images/esempio1.png"
-      width={300}
+      src="../images/esame.png"
+      width={600}
       quality={95}
       formats={["auto", "webp", "avif"]}
-      alt="The first piece of the puzzle"
+      alt="A test to prove you are worthy"
       style={{ marginBottom: `1.45rem` }}
     />
    
