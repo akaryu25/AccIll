@@ -9,7 +9,7 @@ const intro = () => (
   <Layout>
     <Seo title="Intro" />
     <p> Prima di iniziare ecco le regole del gioco: </p>
-    <p>Ogni Enigma &egrave; indicato con l'associazione di un nome e un aggettivo, ad esempio "Accademia Oscura"
+    <p>Ogni Enigma &egrave; indicato con l'associazione di un nome e un aggettivo, ad esempio "Accademia Oscura".
     <br />La soluzione di ogni Enigma porter&agrave; sempre a quello successivo, quindi avr&agrave; sempre questa forma.
     <br />Gli Enigmi saranno solo in italiano, ma ci potranno essere altre lingue che quindi dovranno essere intese come indizi.
     <br />Per tornare alla pagina principale dell'Enigma premi sul nome nella parte rossa in alto.
