@@ -14,7 +14,7 @@ const IndexPage = () => (
   
     <p>Tranquillo/a, per iniziare &nbsp;<Link to="/esempio1/">qui</Link> troverai degli esempi guidati. Prova a risolverli!
     <br />
-    Se invece pensi di essere già pronto &nbsp;<Link to="/test/">questo</Link> è il test per entrare nell'accademia e iniziare a risolvere gli enigmi.</p>
+    Se invece pensi di essere già pronto &nbsp;<Link to="/esame/">questo</Link> è il test per entrare nell'accademia e iniziare a risolvere gli enigmi.</p>
  
   </Layout>
 )
