@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "daisy";
+  src: url("../fonts/daisywhl.otf");
+}
+
+@font-face {
+  font-family: "oldnewspaper";
+  src: url("../fonts/ont.ttf");
+}
+
+@font-face {
+  font-family: "riesling";
+  src: url("../fonts/riesling.ttf");
+}
+
+@font-face {
+  font-family: "selectric";
+  src: url("../fonts/Selectric.ttf");
+}
