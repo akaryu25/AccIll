@@ -8,7 +8,7 @@ import Seo from "../components/seo"
 const spiegazione = () => (
   <Layout>
     <Seo title="Spiegazione" />
-    Ogni Enigma è in realtà un sito web statico. Il titolo corrisponde proprio al <em>Top Level Domain</em> dell'indirizzo del sito. Quindi, in questo caso invece di essere per esempio "www.accademiaoscura.com" è semplicemente ".accademiaoscura". 
+    Ogni Enigma è in realtà un sito web statico. Il titolo corrisponde proprio al Top-Level Domain dell'indirizzo del sito. Quindi, in questo caso invece di essere per esempio "www.accademiaoscura.com" è semplicemente ".accademiaoscura". 
     Per visitarli bisogna però utilizzare Broswer compatibili tipo <a href="https://www.pumabrowser.com/" target="_blank">https://www.pumabrowser.com/ </a>
     <br />Altrimenti impostando il DNS primario 103.196.38.38 e secondario 103.196.38.39 si possono visitare direttamente dal proprio broswer. Per quanto sia comoda questa opzione, in questo modo bisogna fidarsi dei fornitori del servizio sul fatto che non registrino i nostri dati.
      
