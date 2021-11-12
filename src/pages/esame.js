@@ -12,7 +12,7 @@ const esame = () => (
   <p></p>
     <StaticImage
       src="../images/esame.png"
-      width={600}
+      width={1200}
       quality={95}
       formats={["auto", "webp", "avif"]}
       alt="A test to prove you are worthy"
