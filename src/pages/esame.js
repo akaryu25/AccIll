@@ -21,6 +21,7 @@ const esame = () => (
    
     <p> <br /> <br /> </p>
     <a href="https://hns.to/" target="_blank"> Ho risolto. </a>
+    PS: ricordati la pagina per immettere le soluzioni nei preferiti, così non perdi la via.
   </Layout>
 )
 
