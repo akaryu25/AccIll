@@ -9,15 +9,8 @@ const esame = () => (
   <Layout>
     <Seo title="Esame" />
     <p>Oltre che solitario è anche... </p>
-  <p></p>
-    <StaticImage
-      src="../images/esame.png"
-      width={600}
-      quality={95}
-      formats={["auto", "webp", "avif"]}
-      alt="A test to prove you are worthy"
-      style={{ marginBottom: `1.45rem` }}
-    />
+  
+    
    
     
   </Layout>
