@@ -9,7 +9,7 @@ const esame = () => (
   <Layout>
     <Seo title="Esame" />
     <p>Oltre che solitario è anche... </p>
-  
+    
     <StaticImage
       src="../images/esame.png"
       width={600}
@@ -18,10 +18,10 @@ const esame = () => (
       alt="A test to prove you are worthy"
       style={{ marginBottom: `1.45rem` }}
     />
-   
     
+    <p> <br /> <br /> </p>
     <a href="https://hns.to/" target="_blank"> Ho risolto. </a>
-    PS: ricordati la pagina per immettere le soluzioni nei preferiti, così non perdi la via.
+    <p>PS: ricordati la pagina per immettere le soluzioni nei preferiti, così non perdi la via.</p>
   </Layout>
 )
 
