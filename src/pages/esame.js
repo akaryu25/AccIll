@@ -19,7 +19,7 @@ const esame = () => (
       style={{ marginBottom: `1.45rem` }}
     />
     
-    <p> <br /> <br /> </p>
+    <p></p>
     <a href="https://hns.to/" target="_blank"> Ho risolto. </a>
     <p>PS: ricordati la pagina per immettere le soluzioni nei preferiti, così non perdi la via.</p>
   </Layout>
