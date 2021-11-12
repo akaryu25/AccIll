@@ -11,15 +11,12 @@ const esame = () => (
     <p>Oltre che solitario è anche... </p>
     <StaticImage
       src="../images/esame.png"
-      width={1200}
+      width={300}
       quality={95}
       formats={["auto", "webp", "avif"]}
       alt="A piece of the puzzle"
       style={{ marginBottom: `1.45rem` }}
     />
-    <p>
-      <Link to="/indizio/">MCMLXXXVI</Link>
-    </p>
 
 
     <p> <br /> <br /> </p>
