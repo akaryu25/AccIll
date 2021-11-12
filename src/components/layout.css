@@ -1,3 +1,4 @@
+@import "../components/typography.css";
 html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
@@ -7,11 +8,13 @@ html {
 }
 body {
   background-color: #282828;
-  margin: 0;
+  margin: 0rem;
+  line-height: 1.6rem;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: #ffffff;
-  font-family: georgia, serif;
+  color: #fffdd6;
+  font-family: oldnewspaper,georgia, serif;
+  font-size: 1rem;
   font-weight: normal;
   word-wrap: break-word;
   font-kerning: normal;
@@ -84,13 +87,13 @@ h1 {
   padding-left: 0;
   padding-right: 0;
   padding-top: 0;
-  margin-bottom: 1.45rem;
+  margin-bottom: 1rem;
   color: inherit;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+  font-family: selectric, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-weight: bold;
   text-rendering: optimizeLegibility;
-  font-size: 2.25rem;
+  font-size: 2.5rem;
   line-height: 1.1;
 }
 mark {
