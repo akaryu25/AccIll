@@ -9,7 +9,7 @@ const IndexPage = () => (
   <Layout>
     <Seo title="Home" />
     <p>Benvenuto/a nell'Accademia Oscura.</p>
-    <p>Sono qui per guidarti nell' intraprendere la strada verso l'Oscurit&agrave;. Non temere, &egrave; solo un sostantivo femminile che serve ad indicare la mancanza o insufficienza di luce. Vedi, lo scopo dell'accademia &egrave; quello di darti le conoscenze base per comprendere gli Enigmi.
+    <p>Sono qui per guidarti nell' intraprendere la strada verso l'Oscurit&agrave;. Non temere, &egrave; serve solo ad indicare la mancanza o insufficienza di luce. Vedi, lo scopo dell'accademia &egrave; quello di darti le conoscenze base per comprendere gli Enigmi.
     <br />Gli Enigmi ti porteranno in un posto buio, e servirà orientarsi tramite le proprie abilità. Solo chi sarà in grado di risolverli raggiungerà la terra promessa.</p>
   
     <p>Tranquillo/a, per iniziare &nbsp;<Link to="/intro/">qui</Link> troverai le regole e degli esempi guidati. Prova a risolverli!
