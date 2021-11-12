@@ -9,19 +9,21 @@ const esame = () => (
   <Layout>
     <Seo title="Esame" />
     <p>Oltre che solitario è anche... </p>
-    
     <StaticImage
       src="../images/esame.png"
-      width={600}
+      width={1200}
       quality={95}
       formats={["auto", "webp", "avif"]}
-      alt="A test to prove you are worthy"
+      alt="A piece of the puzzle"
       style={{ marginBottom: `1.45rem` }}
     />
-    
-    <p></p>
+    <p>
+      <Link to="/indizio/">MCMLXXXVI</Link>
+    </p>
+
+
+    <p> <br /> <br /> </p>
     <a href="https://hns.to/" target="_blank"> Ho risolto. </a>
-    <p>PS: ricordati la pagina per immettere le soluzioni nei preferiti, così non perdi la via.</p>
   </Layout>
 )
 
