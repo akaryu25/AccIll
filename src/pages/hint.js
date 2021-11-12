@@ -13,7 +13,7 @@ const hint = () => (
     <br /> Visto che questo è il tuo primo test, ho deciso di darti un aiutino. Sarà l'ultimo ricorda!
     <br /> Può capitare che la risoluzione necessiti di informazioni che non hai, e che dovranno essere cercate.
     <br /> Questo vuol dire che in alcuni casi conviene fare un'attenta ricerca su Wikipedia, Google o qualche sito specializzato.
-    <br /> In questo caso, troverai che le esatte parole nella frase continuano col la soluzione dell'Enigma... Una volta che hai trovato dove cercare!
+    <br /> In questo caso, troverai che le esatte parole nella frase continuano con la soluzione dell'Enigma... Una volta che hai trovato dove cercare!
   </p>
   <p> <Link to="/esame/">Torna indietro</Link></p>
   </Layout>
