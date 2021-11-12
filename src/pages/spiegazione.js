@@ -9,8 +9,11 @@ const spiegazione = () => (
   <Layout>
     <Seo title="Spiegazione" />
     Ogni Enigma è in realtà un sito web statico.
-    <a href="https://www.pumabrowser.com/" target="_blank">https://www.pumabrowser.com/ </a>
-    <br />Altrimenti impostando il DNS primario 103.196.38.38 e secondario 103.196.38.39
+    <br />L'indirizzo del sito è ".accademiaoscura", molto più comodo di "accademiaoscura.com".
+    <br />Per fare questo però è necessario utilizzare DNS compatibili, tipo impostando il DNS primario 103.196.38.38 e secondario 103.196.38.39
+    <br />Facendo ciò ci si affida a quel servizio e bisogna sperare che non utilizzino male i nostri dati. Molto meglio utilizzare questo sito che farà da ponte.
+    <br />Altrimenti, si possono usare browser compatibili tipo <a href="https://www.pumabrowser.com/" target="_blank">https://www.pumabrowser.com/ </a> o l'estensione per chrome
+    <br />
   </Layout>
 )
 
