@@ -13,9 +13,10 @@ const IndexPage = () => (
     <br />Gli Enigmi ti porteranno in un posto buio, e servirà orientarsi tramite le proprie abilità. Solo chi sarà in grado di risolverli raggiungerà la terra promessa.</p>
   
     <p>Tranquillo/a, per iniziare &nbsp;<Link to="/intro/">qui</Link> troverai le regole e degli esempi guidati. Prova a risolverli!
-    <br />
-    Se invece pensi di essere già pronto &nbsp;<Link to="/esame/">questo</Link> è il test per entrare nell'accademia e iniziare a risolvere gli enigmi.</p>
- 
+    </p>
+  <p>
+    Se invece pensi di essere già pronto &nbsp;<Link to="/esame/">questo</Link> è il test per entrare nell'accademia e iniziare a risolvere gli enigmi.
+  </p>
   </Layout>
 )
 
