@@ -9,6 +9,8 @@ const spiegazione = () => (
   <Layout>
     <Seo title="Spiegazione" />
     Ogni Enigma è in realtà un sito web statico.
+    <a href="https://www.pumabrowser.com/" target="_blank">https://www.pumabrowser.com/ </a>
+    <br />Altrimenti impostando il DNS primario 103.196.38.38 e secondario 103.196.38.39
   </Layout>
 )
 
