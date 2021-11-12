@@ -14,7 +14,7 @@ const spiegazione = () => (
     <br />Facendo ciò ci si affida a quel servizio e bisogna sperare che non utilizzino male i nostri dati. Molto meglio utilizzare <a href="https://hns.to/" target="_blank"> questo </a>  sito che farà da ponte.
     <br />Altrimenti, si possono usare browser compatibili tipo <a href="https://www.pumabrowser.com/" target="_blank">https://www.pumabrowser.com/ </a> o l'estensione per chrome <a href="https://chrome.google.com/webstore/detail/bob-extension/ogcmjchbmdichlfelhmceldndgmgpcem" target="_blank">Bob Extension </a>
     
-  <p> </p>
+  <p> <Link to="/intro/">Torna indietro</Link></p>
   </Layout>
 )
 
