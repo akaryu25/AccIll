@@ -15,6 +15,7 @@ const hint = () => (
     <br /> Questo vuol dire che in alcuni casi conviene fare un'attenta ricerca su Wikipedia o Google per esempio.
     <br /> In questo caso troverai che le esatte parole nella frase continuano con la soluzione dell'Enigma... Se sei nel posto giusto ovviamente!
   </p>
+  <p>Infine alcuni codici saranno facili da decifrare, altri meno. Prima di perdere ogni speranza, prova a cercare il codice su Google. Molto probabilmente non troverai nulla ma tentar non nuoce, soprattutto se hai gi&agrave; provato vari modi per decifrarlo e non hanno portato risultati. In quel caso potrebbe proprio essere che il codice sia un'etichetta di qualche tipo e lo troverai subito sul motore di ricerca.</p>
   <p> <Link to="/esame/">Torna indietro</Link></p>
   </Layout>
 )
