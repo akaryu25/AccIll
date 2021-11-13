@@ -21,7 +21,6 @@ const intro = () => (
     <p>
       Buona fortuna! &nbsp;<Link to="/esempio1/">Procedi con il tutorial</Link>.
     </p>
-    <p> Apri &nbsp;<Link to="/spiegazione/">qui</Link> se vuoi altre info sul sistema utilizzato per verificare le risposte, o se volete semplificare la procedura.</p>
   </Layout>
 )
 
