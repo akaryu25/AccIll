@@ -3,7 +3,7 @@ module.exports = {
     title: `Accademia Oscura`,
     description: `A puzzle`,
     author: `me`,
-    siteUrl: `https://www.gatsbyjs.com`,
+    siteUrl: `http://test.rispostacorretta`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
